@@ -7,3 +7,4 @@ Smart Adaptation include These Features:
  Easy Animations 
  Works on anything(Like a SimpleCube) 
  Navigating/Patrolling 
+Unity AI
